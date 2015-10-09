@@ -1,0 +1,7 @@
+<Application>
+<JSEngine>
+        <FileObject>
+            <VirtualDirectory>/store;C:\Program Files\Wamp\www\RecordFilesAview\Videos</VirtualDirectory>
+         </FileObject>
+</JSEngine>
+</Application>
