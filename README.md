@@ -1,6 +1,6 @@
 # aview-fms
 
-Aview uses Adobes streaming soltuion FMS/AMS for performing collaboration for large scale classrooms. This repository containes the necessary server side code for the aview client software.
+A-VIEW uses Adobes streaming solution FMS/AMS for performing collaboration for large scale classrooms. This repository contains the necessary server side code for the aview client software.
 
 # License
 
@@ -23,5 +23,5 @@ Pull requests are welcome
 # Pricing & other information
  
 * The current aview client software works with FMS 4.0, FMS 4.5 and AMS 5.0
-* Also, to purchase server licencse from FMS, please contact Adobe. 
+* Also, to purchase server license from FMS, please contact Adobe. 
 http://www.adobe.com/in/products/adobe-media-server-family/buying-guide-pricing.html
