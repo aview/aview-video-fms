@@ -2,6 +2,11 @@
 
 Aview uses Adobes streaming soltuion FMS/AMS for performing collaboration for large scale classrooms. This repository containes the necessary server side code for the aview client software.
 
+# License
+----------------
+The code in this repository is licensed under CC-BY-SA unless otherwise noted. Please follow the link for more details.
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
 Collaboration
 -----------
 Pull requests are welcome
